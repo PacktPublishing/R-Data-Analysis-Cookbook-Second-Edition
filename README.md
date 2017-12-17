@@ -43,5 +43,3 @@ Also, few chapters specifically require the use of R Studio only.
 
 * [R Data Analysis Cookbook](https://www.packtpub.com/big-data-and-business-intelligence/r-data-analysis-cookbook?utm_source=github&utm_medium=repository&utm_campaign=9781783989065)
 
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
